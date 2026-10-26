@@ -1,0 +1,22 @@
+{
+  "axel": [
+    { "categoria": "Tecnología", "titulo": "Nuevos chips con IA integrada", "resumen": "Los fabricantes presentan procesadores con aceleradores de IA en el dispositivo.", "fecha": "2026-10-20" },
+    { "categoria": "Tecnología", "titulo": "PWA supera a apps nativas en velocidad", "resumen": "Estudios muestran que las PWAs reducen el tiempo de carga inicial.", "fecha": "2026-10-18" },
+    { "categoria": "Tecnología", "titulo": "Service Workers cada vez más usados", "resumen": "El soporte offline se vuelve estándar en aplicaciones web modernas.", "fecha": "2026-10-15" }
+  ],
+  "omar": [
+    { "categoria": "Deportes", "titulo": "Clásico definido en los últimos minutos", "resumen": "Un gol en el tiempo añadido dio la victoria al equipo local.", "fecha": "2026-10-22" },
+    { "categoria": "Deportes", "titulo": "Récord mundial en atletismo", "resumen": "La marca de 100 metros planos fue superada por centésimas.", "fecha": "2026-10-21" },
+    { "categoria": "Deportes", "titulo": "Torneo de eSports con premio millonario", "resumen": "Equipos de cinco países competirán por la copa internacional.", "fecha": "2026-10-19" }
+  ],
+  "juan": [
+    { "categoria": "Mundo", "titulo": "Cumbre climática reúne a 120 países", "resumen": "Se discutirán metas de reducción de emisiones para 2035.", "fecha": "2026-10-23" },
+    { "categoria": "Política", "titulo": "Nuevo acuerdo comercial regional", "resumen": "Los países firmantes eliminarán aranceles en sectores clave.", "fecha": "2026-10-21" },
+    { "categoria": "Ciencia", "titulo": "Sonda espacial envía primeras imágenes", "resumen": "Los datos confirman la presencia de agua en un asteroide cercano.", "fecha": "2026-10-20" },
+    { "categoria": "Mundo", "titulo": "Réplica sísmica afecta zona costera", "resumen": "Protección civil reporta daños menores y sin víctimas.", "fecha": "2026-10-19" },
+    { "categoria": "Ciencia", "titulo": "Nuevo tratamiento aprobado", "resumen": "La agencia regulatoria autoriza su uso tras ensayos exitosos.", "fecha": "2026-10-17" }
+  ],
+  "amanda": [
+    { "categoria": "Cultura", "titulo": "Festival de cine independiente abre convocatoria", "resumen": "Realizadores emergentes podrán inscribir sus cortometrajes hasta noviembre.", "fecha": "2026-10-22" }
+  ]
+}
